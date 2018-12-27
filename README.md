@@ -16,5 +16,9 @@ that enables saves and loads. Adam was responsible for creating some of of the i
 designing the  settings page.
 
 To Run the Project:
-	Install the needed requirements using : 
-	Then run the game using : python3 galagapg.py
+
+Clone the project using git clone command
+
+Install the needed requirements using : " pip install -r requirements.txt " 
+
+Then run the game using : "python3 galagapg.py"
